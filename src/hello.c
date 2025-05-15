@@ -2,7 +2,7 @@
 
 // main 标准写法1：不接收参数
 
-int main(void) {
+int main() {
 
     printf("Hello World!\n");
 
